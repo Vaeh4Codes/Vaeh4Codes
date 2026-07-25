@@ -2,17 +2,11 @@
   <img src="https://raw.githubusercontent.com/Vaeh4Codes/Vaeh4Codes/main/banner-white.png" alt="Nevaeh Dickerson" width="100%" />
 </p>
 
-<h2 align="center">Hi 👋🏽 I'm Nevaeh Dickerson</h2>
+<h2 align="center">Hi 👋🏽 </h2>
 
 ---
 
 🌟 I'm currently pursuing a Bachelor's degree in Computer Science at Virginia Commonwealth University, with a concentration in Cybersecurity. I'm actively working on strengthening my programming skills while exploring the intersection of AI and cyber defense. My academic and personal learning journey is focused on building a solid foundation in software development and security, and I aim to specialize in AI × cybersecurity as a long-term career path. *(pron. nuh-vay-uh)*
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vaeh4Codes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/stars/Vaeh4Codes?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=flat&color=e05d44" alt="GitHub stars" />
-  <img src="https://img.shields.io/github/followers/Vaeh4Codes?label=Followers&style=flat&color=blue" alt="GitHub followers" />
-</p>
 
 ---
 
