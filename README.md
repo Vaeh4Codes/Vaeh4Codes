@@ -2,21 +2,20 @@
   <img src="https://raw.githubusercontent.com/Vaeh4Codes/Vaeh4Codes/main/banner-white.png" alt="Nevaeh Dickerson" width="100%" />
 </p>
 
----
-
-### Hi, I'm Nevaeh! *(nuh-vay-uh)*
-🎓 Sophomore at **[Your University]**, studying Computer Science  
-🔭 Aspiring **AI × Cybersecurity** builder — exploring how intelligent systems and cyber defense intersect
-<!--I love tackling real-world problems at the edge of AI and security. I’m big on continuously learning and building my skills, and believe taking initiative is key to growth. *(Ask me about [your fellowship / club / program]!)* Currently, I'm focusing on **[what you're learning now — e.g. ML models, threat detection, secure systems]**. I’m looking to leverage and grow my skills in an internship where I can contribute to exciting projects and learn from industry professionals — got any leads? Let me know!
--->
-<!--
----
-
-### 🎯 Featured Project: **[Project Name]**
-
+<h2 align="center">Hi 👋🏽 I'm Nevaeh Dickerson</h2>
 
 ---
--->
+
+🌟 I'm currently pursuing a Bachelor's degree in Computer Science at Virginia Commonwealth University, with a concentration in Cybersecurity. I'm actively working on strengthening my programming skills while exploring the intersection of AI and cyber defense. My academic and personal learning journey is focused on building a solid foundation in software development and security, and I aim to specialize in AI × cybersecurity as a long-term career path. *(pron. nuh-vay-uh)*
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vaeh4Codes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/stars/Vaeh4Codes?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=flat&color=e05d44" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/followers/Vaeh4Codes?label=Followers&style=flat&color=blue" alt="GitHub followers" />
+</p>
+
+---
+
 ### 🛠 Tech Stack
 - **Languages:** Python, Java, HTML, CSS, JavaScript *(add/remove as needed)*
 - **AI / Data:** Pandas, NumPy, scikit-learn, TensorFlow *(edit to match you)*
