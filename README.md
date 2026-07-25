@@ -30,7 +30,7 @@ A few other noteworthy projects I’ve worked on:
 
 ### 📫 How to Reach Me
 - **Email:** dickersonng@vcu.edu
-- **LinkedIn:** [[linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/nevaeh-dickerson/)
+- **LinkedIn:** (https://www.linkedin.com/in/nevaeh-dickerson/)
 
 ---
 
