@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Nevaeh Dickerson" width="100%" />
+  <img src="https://raw.githubusercontent.com/Vaeh4Codes/Vaeh4Codes/main/banner.png?v=white" alt="Nevaeh Dickerson" width="100%" />
 </p>
 
 ---
