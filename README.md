@@ -11,12 +11,12 @@
 ---
 
 ### 🛠 Tech Stack
-- **Languages:** Python, Java, HTML, CSS, JavaScript *(add/remove as needed)*
-- **AI / Data:** Pandas, NumPy, scikit-learn, TensorFlow *(edit to match you)*
+- **Languages:** Python, Java, HTML, CSS, JavaScript 
+- **AI / Data:** Pandas, NumPy, scikit-learn, TensorFlow 
 <!--
 - **Cyber / Security:** [e.g. Wireshark, Burp, Linux, networking basics]
 -->
-- **Web Dev:** HTML, CSS, JavaScript (basic), Node.js
+- **Web Dev:** HTML, CSS, JavaScript, Node.js
 - **Tools:** Jupyter, VS Code / Cursor
 - **Databases:** SQL, MySQL
 
