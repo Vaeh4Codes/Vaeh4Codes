@@ -4,7 +4,7 @@ Text version of [Data-AI_ML_Resume.pdf](Data-AI_ML_Resume.pdf).
 
 ## Contact
 
-Richmond, VA • dickersonng@vcu.edu • (571) 528-4221 • https://www.linkedin.com/in/nevaeh-dickerson/
+dickersonng@vcu.edu • (571) 528-4221 • https://www.linkedin.com/in/nevaeh-dickerson/
 
 ## Education
 
@@ -26,28 +26,28 @@ Relevant coursework: Data Structures, Linear Algebra, Statistics & Probability, 
 
 **Allstate Predicting Auto Claims Severity ML Project** | August 2026 – Present
 
-- Analyze 188,318 historical insurance claims to support development of a regression model for predicting claim severity.
-- Conduct reproducible data validation and exploratory analysis, checking schema, identifier uniqueness, missing values, duplicates, continuous-variable ranges, and target validity.
-- Collaborate with a three-person team using Git/GitHub, documented analysis methods, and independent peer review to maintain reproducible project work.
+- Analyze 188,318 insurance claims and 130 predictors to support a machine learning project predicting final claim cost at initial filing.
+- Validate data quality and examine categorical and numerical distributions and relationships; document findings and limitations to inform modeling decisions.
+- Collaborate with a three-person team to produce reproducible analysis, written reports, and supporting artifacts using Git/GitHub and independent peer review.
 
 ## Relevant experience
 
 **Break Through Tech AI Program** | AI Fellow | Remote | May 2026 – Present
 
-- Completed nine weeks of hands-on ML coursework, experimenting with Python data libraries and working through data preparation, exploratory analysis, feature engineering, model training, and evaluation.
-- Implemented and compared logistic regression, KNN, decision tree, and neural network models; explored LLM/RAG applications using LangChain, embeddings, and vector retrieval.
+- Completed nine weeks of hands-on coursework using Python data libraries to explore data preparation, analysis, feature engineering, model training, and evaluation.
+- Implemented and compared foundational ML models and explored LLM applications using LangChain, embeddings, and retrieval-augmented generation.
 
 **Hive Systems** | Cybersecurity Consulting Intern | Richmond, VA | May 2026 – August 2026
 
-- Helped establish an internal SOC using Wazuh, validating authentication log ingestion, data quality, and event classification to support downstream analysis and reporting.
-- Expanded detection rules from 8 to 34 and developed Wazuh dashboards to visualize event trends, prioritize high-severity alerts, and translate log data into actionable insights.
-- Developed individualized QR-code functionality for phishing simulations, enabling recipient-level data collection and engagement tracking across 600+ recipients.
+- Helped establish an internal monitoring platform using Wazuh, validating authentication data ingestion, data quality, and event classification to support analysis and reporting.
+- Developed dashboards to visualize event trends and highlight high-priority security events; expanded detection rules from 8 to 34 to support monitoring and investigation.
+- Implemented individualized QR-code functionality, enabling recipient-level data collection and engagement tracking across 600+ simulation recipients.
 
 ## Leadership
 
 **Society of Women Engineers** | Contact Chair | Virginia Commonwealth University | April 2026 – Present
 
-- Communicate key SWE updates to E-Board and chapter members through meetings and weekly newsletters highlighting scholarships, deadlines, conferences, and professional opportunities.
+- Synthesize scholarship, conference, and professional opportunity information into concise weekly newsletters and spreadsheets for chapter leadership and members.
 
 **Essentials of AI (CMSC 225)** | Undergraduate Teaching Assistant | Virginia Commonwealth University | August 2026 – Present
 
