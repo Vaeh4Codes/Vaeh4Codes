@@ -1,3 +1,3 @@
 # Volunteer
 
-This resume does not list volunteer roles. Add one markdown file per role in this folder when you have them.
+- [Bible Study Co-Lead, Wave Church Downtown](wave-church-downtown.md) — 2026 – Present, Richmond, VA

@@ -1,54 +1,57 @@
-# Data, AI, and ML resume
+# Nevaeh Dickerson
 
-Text version of [Data-AI_ML_Resume.pdf](Data-AI_ML_Resume.pdf).
+dickersonng@vcu.edu | (571) 528-4221 | https://www.linkedin.com/in/nevaeh-dickerson/
 
-## Contact
+## Summary
 
-dickersonng@vcu.edu • (571) 528-4221 • https://www.linkedin.com/in/nevaeh-dickerson/
+Computer Science student and Cornell Tech AI Fellow with experience in Python, machine learning, and data validation. Analyzing 188,318 auto insurance claims to predict claim severity for an Allstate machine learning project.
 
 ## Education
 
-Virginia Commonwealth University | Richmond, VA
+**Virginia Commonwealth University | Richmond, VA** — Expected Graduation: May 2029
 
-B.S. Computer Science, Concentration: Data Science, Minor: Artificial Intelligence | May 2029
+*Bachelor of Science in Computer Science | Concentration in Data Science | Minor in Artificial Intelligence*
 
-GPA: 3.53 | Dean's List
+**Dean's List | GPA: 3.53**
 
-Relevant coursework: Data Structures, Linear Algebra, Statistics & Probability, Object-Oriented Programming (Java), Intro to Problem Solving (Python), Essentials of AI, Computing and Data Ethics
+**Relevant Coursework:** Data Structures | Discrete Structures | Linear Algebra | Statistics & Probability | Object-Oriented Programming (Java) | Intro to Problem Solving (Python) | Essentials of AI | Computing and Data Ethics
 
 ## Skills
 
-**Data & AI:** Python, SQL, pandas, NumPy, scikit-learn, TensorFlow/Keras, preprocessing, feature engineering, EDA, model evaluation, LangChain, embeddings, RAG
-
-**Software & Tools:** Java, SQL, REST APIs, Git/GitHub, Jupyter, Linux, CI/CD
+Java, Python, SQL, pandas, NumPy, exploratory data analysis, data validation, scikit-learn, TensorFlow/Keras, preprocessing, feature engineering, hyperparameter tuning, model evaluation, LangChain, embeddings, retrieval-augmented generation, prompt engineering, Git/GitHub, Cursor, Jupyter, Matplotlib, Seaborn, Linux
 
 ## Projects
 
-**Allstate Predicting Auto Claims Severity ML Project** | August 2026 – Present
+**[Allstate Auto Claims Severity ML Project](https://github.com/Break-Through-Tech/Allstate-1D-predicting-auto-claims-severity) | Break Through Tech AI Studio** — August 2026 – Present
 
-- Analyze 188,318 insurance claims and 130 predictors to support a machine learning project predicting final claim cost at initial filing.
-- Validate data quality and examine categorical and numerical distributions and relationships; document findings and limitations to inform modeling decisions.
-- Collaborate with a three-person team to produce reproducible analysis, written reports, and supporting artifacts using Git/GitHub and independent peer review.
+- As a Break Through Tech AI Studio fellow, used an Allstate auto-claims case of 188,318 claims to explore how an insurer could estimate final payout early enough for reserve planning, during the months repairs and legal outcomes take to settle.
+- Validated the dataset, passing 18 data checks, and found average claim cost rose 64% from the low to the high range of one input field.
+- Trained a random forest and an XGBoost model on a 70/15/15 split and compared them with simple cost baselines on 28,248 held-out claims. Average dollar error was $1,292 for the forest and $1,172 for XGBoost, versus $1,827 for guessing the typical claim cost. Training stopped after that first comparison.
+- Coordinated project milestones through GitHub Projects, advisor updates, and team standups; required independent teammate review before marking analysis deliverables complete.
 
-## Relevant experience
+## Experience
 
-**Break Through Tech AI Program** | AI Fellow | Remote | May 2026 – Present
+**Break Through Tech AI Program | AI Fellow** — April 2026 – Present
 
-- Completed nine weeks of hands-on coursework using Python data libraries to explore data preparation, analysis, feature engineering, model training, and evaluation.
-- Implemented and compared foundational ML models and explored LLM applications using LangChain, embeddings, and retrieval-augmented generation.
+- Completed a nine-week foundations course covering data preparation, feature engineering, training, and evaluation on real datasets.
+- Trained, tuned, and compared 4 supervised models: logistic regression, k-nearest neighbors, decision trees, and a TensorFlow/Keras neural network.
+- Built a retrieval-augmented chatbot in LangChain, including document ingestion, semantic chunking, embeddings, vector retrieval, and answer generation.
 
-**Hive Systems** | Cybersecurity Consulting Intern | Richmond, VA | May 2026 – August 2026
+**Hive Systems | Cybersecurity Consulting Intern** — May 2026 – July 2026
 
-- Helped establish an internal monitoring platform using Wazuh, validating authentication data ingestion, data quality, and event classification to support analysis and reporting.
-- Developed dashboards to visualize event trends and highlight high-priority security events; expanded detection rules from 8 to 34 to support monitoring and investigation.
-- Implemented individualized QR-code functionality, enabling recipient-level data collection and engagement tracking across 600+ simulation recipients.
+- Classified Auth0 detection rules into 3 tiers (baseline, signal, and critical), validated Auth0 and AWS CloudTrail log ingestion, and built Kibana dashboards for failed logins and system health.
 
-## Leadership
+**AI Cybersecurity Startup | Cyber Software Engineer Intern** — June 2023 – August 2025
 
-**Society of Women Engineers** | Contact Chair | Virginia Commonwealth University | April 2026 – Present
+- Used the OpenAI API to write contextual summaries of vulnerability records from 4 sources: NVD, AlienVault, AbuseIPDB, and VirusTotal.
+- Set up Elasticsearch, Logstash, and Kibana to ingest logs and display them on dashboards for event review.
 
-- Synthesize scholarship, conference, and professional opportunity information into concise weekly newsletters and spreadsheets for chapter leadership and members.
+## Leadership and Student Organizations
 
-**Essentials of AI (CMSC 225)** | Undergraduate Teaching Assistant | Virginia Commonwealth University | August 2026 – Present
+**Society of Women Engineers | Contact Chair | VCU** — April 2026 – Present
+
+- Communicate key SWE updates to E-Board and chapter members through meetings and weekly newsletters highlighting scholarships, deadlines, conferences, and professional opportunities.
+
+**Undergraduate Teaching Assistant | Essentials of AI (CMSC 225) | VCU** — August 2026 – Present
 
 - Grade weekly 1,100+ word discussions for 115 students on AI concepts, providing thoughtful, rubric-based feedback.

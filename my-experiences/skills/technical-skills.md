@@ -29,7 +29,7 @@ Drawn from resumes and the detailed role notes.
 - Feature engineering
 - Hyperparameter tuning
 - Model training and evaluation
-- Supervised learning (Logistic Regression, K-Nearest Neighbors, Decision Trees, Neural Networks)
+- Supervised learning (Logistic Regression, K-Nearest Neighbors, Decision Trees, Random Forest, XGBoost, Neural Networks)
 
 ## Generative AI
 

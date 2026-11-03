@@ -23,7 +23,9 @@ Free, one-year virtual extracurricular program preparing undergraduates for care
 - Designed and developed an LLM-powered chatbot, applying prompt engineering and conversational AI principles.
 - Built a complete Retrieval-Augmented Generation (RAG) chatbot using LangChain, implementing document ingestion, semantic chunking, embeddings, vector database retrieval, and LLM-powered response generation.
 - Performed exploratory data analysis (EDA), feature engineering, hyperparameter tuning, model validation, and technical reporting through data visualizations and documentation.
-- Working with a team of 3 other fellows on an ML model that predicts an auto insurance claim estimate for Allstate. The team owns both development and project management: breaking the goal into sprints, assigning roles, staying aligned through communication, and producing project deliverables.
+- Working with a team of 3 other fellows on the Allstate auto-claims studio project. The team owns development and project management: breaking the goal into sprints, assigning roles, staying aligned through communication, and producing project deliverables.
+- Used an Allstate case of 188,318 claims to explore estimating final payout early enough for reserve planning. Passed 18 data checks and found average claim cost rose 64% from the low to the high range of one input field.
+- Trained a random forest and an XGBoost model on a 70/15/15 split. On 28,248 held-out claims, average dollar error was $1,292 for the forest and $1,172 for XGBoost, versus $1,827 for guessing the typical claim cost. Training stopped after that first comparison.
 
 ## Tools / tech
 
@@ -40,6 +42,6 @@ Machine learning, deep learning, generative AI, LLM application development, ret
 ## Still to fill in
 
 - [ ] ML Foundations completion date and Cornell certificate earned
-- [ ] AI Studio challenge project: host company, problem statement, your role, model(s) built, results and metrics
+- [x] AI Studio challenge project: Allstate auto claims, reserve-planning payout estimate, random forest and XGBoost results (role on the team still open)
 - [ ] Mentor name and company (useful for networking, not for a resume)
 - [ ] Any presentations, demos, or GitHub repos produced

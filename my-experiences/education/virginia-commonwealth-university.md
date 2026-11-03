@@ -3,7 +3,7 @@
 - **School:** Virginia Commonwealth University
 - **Location:** Richmond, VA
 - **Degree:** Bachelor of Science in Computer Science
-- **Concentration:** Cybersecurity
+- **Concentration:** Data Science
 - **Minor:** Artificial Intelligence
 - **Expected graduation:** May 2029
 - **Standing:** Dean's List

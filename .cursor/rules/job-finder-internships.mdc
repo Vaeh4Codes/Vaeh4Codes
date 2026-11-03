@@ -1,0 +1,40 @@
+---
+description: Use when finding, screening, or saving internships. Keep only roles that match job-finder/internship-preferences.md, and record them in job-finder/jobs.md from the earliest date posted to the latest.
+alwaysApply: false
+---
+
+# Internship search
+
+Read `job-finder/internship-preferences.md` before searching. Save a role only when it matches that file. Skip full-time jobs, new-grad roles, and anything the preferences file says to skip. Do not treat "Still open" as a filter.
+
+Look on Handshake, LinkedIn, and company career pages. Follow the finding schedule in the preferences file. Stop after about 10 new listings, then check back.
+
+Write each posting once in `job-finder/jobs.md` and once in `job-finder/application-tracker.csv`. If the application link is already in either file, update that listing instead of adding another.
+
+- A clear match goes under `## Matches`.
+- A close match goes under `## Review`, with **Why review:** naming the gap. A posting that never states pay is skipped, not reviewed.
+- Set **Application status:** to `Not applied` unless Nevaeh has already applied.
+- Keep both files in date-posted order, earliest first, inside each jobs section and in the tracker.
+
+```markdown
+## 2026-08-04 — Data Science Intern, Example Co
+
+- **Role:** Data Science Intern
+- **Company:** Example Co
+- **Date posted:** 2026-08-04
+- **Requirements:** B.S. in progress, Python, statistics
+- **Internship timeline:** May 2027 – August 2027
+- **Deadline:** 2026-10-15
+- **Application link:** https://example.com/apply
+- **Application status:** Not applied
+```
+
+```csv
+2026-08-04,Data Science Intern,Example Co,May 2027 – August 2027,2026-10-15,https://example.com/apply,Not applied,,
+```
+
+Do not invent a date, a deadline, a link, or pay. Write `Not listed` when the posting omits a date or deadline. Put listings with no post date after every dated listing.
+
+Nevaeh tailors a resume for each application. Do not choose a stock resume for her.
+
+Leave the preferences file unchanged unless Nevaeh edits it.
