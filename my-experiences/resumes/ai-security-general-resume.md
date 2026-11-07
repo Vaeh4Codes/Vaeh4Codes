@@ -4,7 +4,7 @@ dickersonng@vcu.edu | (571) 528-4221 | https://www.linkedin.com/in/nevaeh-dicker
 
 ## Summary
 
-Computer Science student with experience in machine learning and cybersecurity. Trains models on large datasets, checks the data first, and builds dashboards and detection rules that make security events easier to review.
+Computer Science student interested in the intersection of AI and security, with experience training machine learning models and building dashboards and detection rules that make security events easier to review.
 
 ## Education
 
@@ -28,7 +28,7 @@ https://github.com/Break-Through-Tech/Allstate-1D-predicting-auto-claims-severit
 
 - As a Break Through Tech AI Studio fellow, used an Allstate auto-claims case of 188,318 claims to explore how an insurer could estimate final payout early enough for reserve planning, during the months repairs and legal outcomes take to settle.
 - Validated the dataset, passing 18 data checks, and found average claim cost rose 64% from the low to the high range of one input field.
-- Trained a random forest and an XGBoost model on a 70/15/15 split and compared them with simple cost baselines on 28,248 held-out claims. Average dollar error was $1,292 for the forest and $1,172 for XGBoost, versus $1,827 for guessing the typical claim cost. Training stopped after that first comparison.
+- Trained and evaluated Random Forest and XGBoost models using a 70/15/15 split across 28,248 held-out claims, achieving mean absolute errors of $1,292 and $1,172, respectively, compared with $1,827 for a baseline model.
 
 ## Experience
 

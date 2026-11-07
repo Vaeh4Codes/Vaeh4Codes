@@ -8,7 +8,7 @@
 ## What I did / built
 
 - Assisted in development, engineering, and implementation of production SIEM (Security Information and Event Management) and SOAR (Security Orchestration, Automation and Response) systems.
-- Leveraged OpenAI models through n8n automation workflows to collect and generate contextual summaries of vulnerabilities from open-source threat databases: NVD, AlienVault, AbuseIPDB, and VirusTotal.
+- Aggregated vulnerability records from NVD, AlienVault, AbuseIPDB, and VirusTotal with n8n and the OpenAI API to improve telemetry on the kinds of events in our SIEM environment.
 - Integrated OpenAI with n8n via API.
 - Configured DNS and remote Linux servers with the ELK Stack (Elasticsearch, Logstash, Kibana).
 - Created SIEM detection rules and dashboards to detect and visualize security risks in production and operational environments.

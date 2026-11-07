@@ -7,6 +7,7 @@ Resumes live in [resumes](resumes/):
 - [Data_ML_Resume.pdf](resumes/Data_ML_Resume.pdf) — [text](resumes/data-ml-resume.md)
 - [AI-Security_Resume.pdf](resumes/AI-Security_Resume.pdf) — [text](resumes/ai-security-resume.md)
 - [AI-Security_General_Resume.pdf](resumes/AI-Security_General_Resume.pdf) — [text](resumes/ai-security-general-resume.md) — AI and security for general recruiters
+- [MITRE_Analytics_Resume.pdf](resumes/MITRE_Analytics_Resume.pdf) — [text](resumes/mitre-analytics-resume.md) — data pipelines, model evaluation, and communicating findings
 - [resume.md](resumes/resume.md) — text of the earlier one-stop resume
 
 | Folder | What is in it |
